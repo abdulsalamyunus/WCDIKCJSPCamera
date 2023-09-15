@@ -1,0 +1,1 @@
+#div1{ height250px; width250px; background-image url(Untitled (6).png); positionabsolute; background-repeat no-repeat}
